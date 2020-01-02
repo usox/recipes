@@ -6,4 +6,5 @@ Gebäck
 
    kokos_guglhupf
    pita_fladen
+   zitronenkuchen
 

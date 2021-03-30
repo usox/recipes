@@ -35,7 +35,7 @@ Deckel in den Backofen stellen.
 
 Gas Ganze nun 15 Minuten lang backen lassen.
 
-Nach Ablauf der Zeit die Pfanne kurz herausnehmen, den großen Pfannkuchen in Viertel teilen und so weitere 10 Minutea
+Nach Ablauf der Zeit die Pfanne kurz herausnehmen, den großen Pfannkuchen in Viertel teilen und so weitere 10 Minuten
 backen lassen.
 
 Die Pfanne nun rausnehmen und mit einem Pfannenwender den Pfannkuchen in kleine Kissen zerreissen. Die Teile können

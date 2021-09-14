@@ -6,3 +6,4 @@ Hauptgerichte
    :maxdepth: 1
 
    kotelett_tomatensauce
+   wurstgulasch

@@ -6,4 +6,5 @@ Hauptgerichte
    :maxdepth: 1
 
    kotelett_tomatensauce
+   linsenpflanzerl
    wurstgulasch

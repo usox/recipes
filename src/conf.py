@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Wolvnet Rezepte'
-copyright = '2019, Daniel Jakob'
+copyright = '2022, Daniel Jakob'
 author = 'Daniel Jakob'
 
 # The short X.Y version

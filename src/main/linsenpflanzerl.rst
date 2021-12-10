@@ -8,21 +8,21 @@ Leicht angefeuchtete Hände helfen beim Formen der Pflanzerl.
 Zutaten
 -------
 
-120g Linsen (z.B. rote)
-200ml Gemüsebrühe
-1 Zwiebel
-1 Ei
-1 Knoblauchzehe
-1/2 Löffel Speisestärke
-Etwas Paniermehl und Haferflocken
-1 Prise Kreuzkümmel
-1 Loorbeerblatt
-1/2 Teelöffel gemahlenen Kümmel
-1/2 Teelöffel süßes Paprikapulver
-Petersilie nach Geschmack
-Salz
-Pfeffer
-Öl zum Braten
+* 120g Linsen (z.B. rote)
+* 200ml Gemüsebrühe
+* 1 Zwiebel
+* 1 Ei
+* 1 Knoblauchzehe
+* 1/2 Löffel Speisestärke
+* Etwas Paniermehl und Haferflocken
+* 1 Prise Kreuzkümmel
+* 1 Loorbeerblatt
+* 1/2 Teelöffel gemahlenen Kümmel
+* 1/2 Teelöffel süßes Paprikapulver
+* Petersilie nach Geschmack
+* Salz
+* Pfeffer
+* Öl zum Braten
 
 Arbeitsschritte
 ---------------

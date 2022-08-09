@@ -14,6 +14,8 @@ bedenkenlos in der heimischen Küche verwenden und sind auch in Bio-Qualität zu
 verwenden wir aber dazu noch hochqualitative Zutaten, so dass wir uns zwar der Tricks bedienen können jedoch ein
 weitaus besseres Eis rausbekommen.
 
+Tipp: Das fertige Eis mit Frischhaltefolie abdecken (direkt aufs Eis in der Gefrierbox auflegen).
+
 Menge
 -----
 

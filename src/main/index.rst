@@ -8,4 +8,5 @@ Hauptgerichte
    kotelett_tomatensauce
    linsenpflanzerl
    pastasauce_mafia
+   schaschliksauce
    wurstgulasch

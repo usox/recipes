@@ -22,12 +22,13 @@ Zutaten Bällchen
 Da sich die Geschmäcker unterscheiden, sind die Mengenangaben eher vage - was man nicht mag, kann man weglassen.
 
 * 500g gemischtes Hackfleisch
+* 1 Zwiebel
 * Altbackenes Brot (Eine Semmel oder ein paar Scheiben Ciabatta, ...)
 * Etwas Milch
 * 2-3 Oliven
 * Eingelegte Chili (z.b. Jalapenos), alternativ etwas Chilipulver
 * 5 Kapern
-* Parmesan
+* Parmesan nach Gusto
 * 1 Ei
 * 1 Teelöffel Senf
 * 1 Teelöffel Oregano

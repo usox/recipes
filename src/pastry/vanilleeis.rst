@@ -20,11 +20,14 @@ Zutaten
 * 300g Sahne
 * 300g Milch
 * 2 Eigelb
-* 100g Zucker
-* 30g Glukosepulver
-* 1/2 Tl. Vanillepulver
+* 80g Zucker
+* 60g Glukosepulver
+* 30g Magermilchpulver
+* 15g Innulin
+* 1 Tl. Vanillepulver
 * 1 Prise Salz
 * 1g Johannisbrotkernmehl
+* 1g Guarkernmehl
 
 Arbeitsschritte
 ---------------
@@ -33,6 +36,7 @@ Erstmal die Eier trennen. Sahne, Milch, Salz, Vanillepulver, Zucker und Glukosep
 und erhitzen. Die Masse muss auf mindestens 70 Grad erhitzt werden - wird sie heisser, muss man sie etwas
 abkühlen lassen - ein Thermometer ist hilfreich.
 
-Sind die 70 Grad erreicht den Topf vom Feuer nehmen und die 2 Eigelb langsam mit einem Schneebesen einrühren,
-danach ebenso das Johannisbrotkernmehl. Die Masse umfüllen, abdecken und kühl stellen. Hat sie Kühlschranktemperatur
+Sind die 70 Grad erreicht den Topf vom Feuer nehmen und die 2 Eigelb langsam mit einem Schneebesen einrühren.
+Nachdem die Masse etwas abgekühlt ist, die restlichen Zutaten hinzugeben und mit einem Stabmixer unterrühren.
+Die Masse umfüllen, abdecken und kühl stellen. Hat sie Kühlschranktemperatur
 erreicht, in der Eismaschine zubereiten.

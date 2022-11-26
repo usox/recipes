@@ -39,7 +39,7 @@ Arbeitsschritte
 
 Den Schweinebauch rundherum mit Salz einreiben und für 1 Stunde
 dämpfen - idealerweise im Dampfgarer bei 100 Grad. Den enstehenden Bratsaft
-nicht auffangen.
+auffangen.
 
 In der Zwischenzeit das Gemüse putzen und klein schneiden - dabei Zwiebeln und
 Lauch separat halten.

@@ -9,4 +9,5 @@ Hauptgerichte
    linsenpflanzerl
    pastasauce_mafia
    schaschliksauce
+   bierbratl
    wurstgulasch

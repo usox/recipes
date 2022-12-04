@@ -22,14 +22,14 @@ Zutaten
 * 1 Tl. Natronpulver
 * 3 El. Zucker
 * 1 Tl. Salz
-* 1 Tl. Vanilleextrakt (optional)
+* 1/2 Tl. Vanillepulver oder  1 Tl. Vanilleextrakt (optional)
 
 Arbeitsschritte
 ---------------
 
 Zuerst die Butter in einem Topf zerlassen und danach zum Abkühlen von der
 Kochstelle nehmen.
-Jetzt alle festeb Komponenten (Mehl, Backuplver, Natron, Zucker und Salz) in
+Jetzt alle festen Komponenten (Mehl, Backuplver, Natron, Zucker und Salz) in
 einer großen Schüssel vermengen. In einer zweiten Schüssel Buttermilch, Eier
 und Vanilleextrakt mit einem Schneebesen vermischen.
 Jetzt kommt der wichtigste Schritt: Die flüssige Masse wird nun in die

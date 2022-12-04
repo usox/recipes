@@ -46,3 +46,19 @@ bringen. Jeweils eine Schöpfkelle von dem relativ festen Teig (keine Angst,
 das soll so sein - auf keinen Fall rühren!) in die Pfanne geben und ca 3-4
 Minuten backen, danach wenden. Idealerweise hält man die Pancakes im Ofen
 warm bis alle fertig sind.
+
+.. image:: ../images/pancakes1.jpg
+  :width: 200
+  :alt: Pancake-Teig nach dem Mischen der Komponenten
+.. image:: ../images/pancakes2.jpg
+  :width: 200
+  :alt: Pancake-Teig nach einer halben Stunde Wartezeit
+.. image:: ../images/pancakes3.jpg
+  :width: 200
+  :alt: Teig-Menge für einen Pancake in der Pfanne
+.. image:: ../images/pancakes4.jpg
+  :width: 200
+  :alt: Pancake nach dem Wenden
+.. image:: ../images/pancakes5.jpg
+  :width: 200
+  :alt: GN-Behälter voll mit frischen Pancakes

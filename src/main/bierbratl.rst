@@ -89,12 +89,12 @@ Der restliche Doppelbock darf jetzt vom Koch als Belohnung getrunken werden.
 Fotos
 -----
 
-.. image:: images/bierbratl1.jpg
+.. image:: ../images/bierbratl1.jpg
   :width: 200
   :alt: Bierbratl im Ofen
-.. image:: images/bierbratl2.jpg
+.. image:: ../images/bierbratl2.jpg
   :width: 200
   :alt: Bierbratl aufgeschnitten
-.. image:: images/bierbratl3.jpg
+.. image:: ../images/bierbratl3.jpg
   :width: 200
   :alt: Bierbratl serviert
